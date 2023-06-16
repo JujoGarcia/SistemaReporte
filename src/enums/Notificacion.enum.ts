@@ -1,0 +1,4 @@
+enum Notificacion{
+    WHATSAPP,
+    EMAIL
+}
